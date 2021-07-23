@@ -5,4 +5,4 @@ The main code for testing diffusion and confusion properties, the uniform distri
 
 The sensitivity test code is written in "sensitivityTest.m".
 
-"collisonMeasure.m" is to measure the Kullback-Leibler divergence between the experimental and theoretical distribution of $\omega$ for each instances of QHFM and each existing schemes. "collisonMeasure.m" calls "hitsDistriDiverg.m".
+"collisonMeasure.m" is to measure the Kullback-Leibler divergence between the experimental and theoretical distribution of $\omega$ for each instances of QHFM and each existing scheme. "collisonMeasure.m" calls "hitsDistriDiverg.m".
